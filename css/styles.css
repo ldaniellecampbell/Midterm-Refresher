@@ -1,26 +1,34 @@
 /* Stylesheet */
 body {
-        background: #000;
+    background: black;    
 }
 
+p, h3 {
+	font-family: 'Coda Caption', sans-serif;
+	}
+
+h3 {
+	text-transform: uppercase;
+	}
+
 header {
-        background: #0FF;
+        
 }
 
 nav {
-        background: #99C;
+       
 }
 
 blockquote {
-        background: #3C3;
+        
 }
 
 footer {
-        background: red;
+        
 }
 
 section {
-        background: #639;
+        
 }
 
 .container_12 {
